@@ -1,0 +1,82 @@
+.caixao{
+    width: 290px;
+    height: 30px;
+    margin-top: 15%;
+    margin-left: 38%;
+}
+
+.cx1{
+    width:345px;
+    height: 30px;
+}
+
+.cx2{
+    width:30px;
+    height: 30px;
+    position:absolute;
+    margin-top: -30px;
+    margin-left: 345px;
+}
+
+.btn-buscar{
+    background-image:url("../img/lupa.png");
+    background-size:25px;
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+}
+
+.cxbusca{
+    width: 345px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.caixa1{
+    width:345px;
+    height: 30px;
+    margin-top: -65px;
+    margin-left: 260px;
+}
+
+.caixa2{
+    width:30px;
+    height: 30px;
+    position:absolute;
+    margin-top: -30px;
+    margin-left: 575px;
+}
+
+.imagem{
+    margin-left: -50px;
+}
+
+.linha1{
+    color: #0a0add;
+    font-size:26;
+}
+	
+.linha2{
+    font-size:18;
+}
+
+#link{
+    text-decoration: none;
+    color: rgb(23, 128, 54);
+}
+
+#link:hover{
+    color:rgb(67, 236, 16);
+}
+
+.linha3{
+    font-size:18;
+}
+
+#table{
+    margin:auto;
+}
+
+td{
+    text-align: center;
+}
